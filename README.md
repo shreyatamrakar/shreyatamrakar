@@ -20,9 +20,9 @@
 <!-- Connect with me -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/Linkedin-URL" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin-2.png" alt="linkedin-icon" height="40" width="40"></a>
-  <a href="https://github.com/Github-Username" target="_blank"><img src="https://img.icons8.com/glyph-neue/64/8f32ae/github.png" alt="github-icon" height="40" width="40"></a>
-  <a href="https://linkedin.com/in/Linkedin-URL" target="_blank"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail-icon" height="40" width="40"></a>
+  <a href="https://www.linkedin.com/in/shreyatmkr/" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin-2.png" alt="linkedin-icon" height="40" width="40"></a>
+  <a href="https://github.com/shreyatamrakar" target="_blank"><img src="https://img.icons8.com/glyph-neue/64/8f32ae/github.png" alt="github-icon" height="40" width="40"></a>
+  <a href="mailto:shreya.tamkr@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail-icon" height="40" width="40"></a>
 </p>
 
 <!-- Language and Tools -->
