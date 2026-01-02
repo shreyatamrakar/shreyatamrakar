@@ -10,7 +10,7 @@
 <!-- About Me -->
 <h3 align="center">About Me</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Manual+/+Automated+Testing;Data+Analysis+/+Visualization;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Manual+/+Automated+Testing;EHR+Analyst;Data+Analysis+/+Visualization;Always+Learning" alt="Typing SVG" />
 </p>
 <p align="center">
   Passionate QA analyst with expertise in automation and a strong foundation in Java, Selenium WebDriver, TestNG, and API testing. Well versed in data analysis and visualization using tools like RStudio, Tableau and SPSS. Always eager to learn new technologies and
